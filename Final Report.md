@@ -38,7 +38,7 @@ I then tried a few approaches next.  I chose to drop all of the 'final_year' col
 
 The results varied by position, but generally the Quarterback and Reciever models worked better than the Running Back and Defense models.  My MSE scores ranged from around 600-800 which again aren't great and should be improved upon with further analysis.  My best score on the Neural Net I ran on my receiving dataframe was an MSE of just about 580.  This comes out to an error term of just about 24 points, meaning that on average my predictions were within 24 points of the actual position grade assigned on profootballfocus.com.  Essentially my model would be able to predict a good player would be good, and a bad player would be bad fairly certainly, however any borderline players who are somewhere in the middle, my model will predict on poorly.  
 
-[Model Residuals](https://git.generalassemb.ly/AidanKeyes/submissions/tree/master/Capstone/data/Model_Residuals.png)
+[Model Residuals](https://github.com/akeyes2394/nfl_success_analysis/blob/master/data/Model_Residuals.png)
 
 ## Further Analysis and Follow Up
 

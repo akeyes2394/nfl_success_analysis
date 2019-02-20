@@ -1,5 +1,5 @@
 ## Directory
 
-- [Data](<https://git.generalassemb.ly/AidanKeyes/submissions/tree/master/Capstone/data>)
-- [Notebooks](<https://git.generalassemb.ly/AidanKeyes/submissions/tree/master/Capstone/notebooks>)
-- [Final Report](<https://git.generalassemb.ly/AidanKeyes/submissions/blob/master/Capstone/Final%20Report.md>)
+- [Data](<https://github.com/akeyes2394/nfl_success_analysis/tree/master/data>)
+- [Notebooks](<https://github.com/akeyes2394/nfl_success_analysis/tree/master/notebooks>)
+- [Final Report](<https://github.com/akeyes2394/nfl_success_analysis/blob/master/Final%20Report.md>)
